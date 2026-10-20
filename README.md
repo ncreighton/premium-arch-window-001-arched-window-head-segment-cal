@@ -1,0 +1,2 @@
+# premium-arch-window-001-arched-window-head-segment-cal
+Manually calculating arched window head segments is costing you hours and risking costly installation errors. The Arched Window Head Segment Calculator eliminates guesswork by automating complex arch geometry in Notion.  This Notion template transforms tedious head segment calculations into a 2-minute process with built-in formulas that account for
